@@ -1,17 +1,27 @@
 [
   {
     "city": "Paris",
-    "iata_code": "CDG",
+    "iata_code": "",
     "lowest_price": 100
   },
   {
     "city": "London",
-    "iata_code": "LHR",
+    "iata_code": "",
     "lowest_price": 200
   },
   {
     "city": "New York",
-    "iata_code": "JFK",
+    "iata_code": "",
     "lowest_price": 300
+  },
+  {
+    "city": "Tokyo",
+    "iata_code": "",
+    "lowest_price": 400
+  },
+  {
+    "city": "Sydney",
+    "iata_code": "",
+    "lowest_price": 500
   }
 ]

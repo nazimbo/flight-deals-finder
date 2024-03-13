@@ -59,7 +59,7 @@ class FlightSearch:
             destination_city=data["cityTo"],
             destination_airport=data["flyTo"],
             out_date=data["route"][0]["local_departure"].split("T")[0],
-            return_date=data["route"][1]["local_departure"].split("T")[0]
+            return_date=data["route"][0]["local_departure"].split("T")[0]
         )
         print(f"{flight_data.destination_city}: ${flight_data.price}")
         return flight_data

@@ -1,27 +1,27 @@
 [
-  {
-    "city": "Paris",
-    "iata_code": "",
-    "lowest_price": 100
-  },
-  {
-    "city": "London",
-    "iata_code": "",
-    "lowest_price": 200
-  },
-  {
-    "city": "New York",
-    "iata_code": "",
-    "lowest_price": 300
-  },
-  {
-    "city": "Tokyo",
-    "iata_code": "",
-    "lowest_price": 400
-  },
-  {
-    "city": "Sydney",
-    "iata_code": "",
-    "lowest_price": 500
-  }
+    {
+        "city": "Paris",
+        "iata_code": "PAR",
+        "lowest_price": 100
+    },
+    {
+        "city": "London",
+        "iata_code": "LON",
+        "lowest_price": 200
+    },
+    {
+        "city": "New York",
+        "iata_code": "NYC",
+        "lowest_price": 300
+    },
+    {
+        "city": "Tokyo",
+        "iata_code": "TYO",
+        "lowest_price": 400
+    },
+    {
+        "city": "Sydney",
+        "iata_code": "SYD",
+        "lowest_price": 500
+    }
 ]

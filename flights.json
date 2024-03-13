@@ -1,0 +1,17 @@
+[
+  {
+    "city": "Paris",
+    "iata_code": "CDG",
+    "lowest_price": 100
+  },
+  {
+    "city": "London",
+    "iata_code": "LHR",
+    "lowest_price": 200
+  },
+  {
+    "city": "New York",
+    "iata_code": "JFK",
+    "lowest_price": 300
+  }
+]
